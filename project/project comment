@@ -1,0 +1,27 @@
+ <!--
+            b=> bold
+            stronge => bold => important text
+            i => itallic 
+            em => emphasized
+            mark => marked text or highlithed text 
+            u => underline 
+            small => small text 
+            del => deleted text 
+            ins => inserted text 
+            sub => subscript
+            sup => superscript it is mean power in mathematics
+            src => source
+            alt => Alternate text 
+            ul => unorderd list
+            il => list itemms
+            ol => orderd list
+            reversed => reverse the ordering
+            start => start from position
+            type => type of ordering
+            dl => description list 
+            dt => term 
+            dd => description term
+            thead => table head 
+            tbody => table body 
+            tfoot => table foot 
+        -->
